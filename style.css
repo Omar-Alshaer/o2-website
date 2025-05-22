@@ -34,6 +34,15 @@ body {
 .nav-link:hover {
   color: #FFFFFF;
 }
+.container {
+  max-width: 1200px;
+}
+.header h1 {
+  font-family: 'Roboto', sans-serif;
+}
+.nav-link {
+  transition: color 0.3s ease;
+}
 
 button {
   transition: background-color 0.3s ease, transform 0.2s ease;
